@@ -1,3 +1,5 @@
+This generator creates a command-line application that dynamically generates a professional README file from a user's input using the command line. You must install node.js through the website. Then install node with npm install to your fil. Finally install inquirer as shown in the code. You then invoke it with node index.
+[final.md](https://github.com/Jbartlettdesign/readMeCreator/files/6482270/final.md)
 [final.md](https://github.com/Jbartlettdesign/readMeCreator/files/6482144/final.md)
 https://drive.google.com/file/d/1UNW0S9gvYa3Fknkz2-9Tl6PeZJpojEPE/view
 
