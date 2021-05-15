@@ -4,7 +4,7 @@ const writeFile = content => {
 return new Promise((resolve, reject) => {
     
 
-    fs.writeFile('../dist/final.html', content, err =>{
+    fs.writeFile('./dist/final.html', content, err =>{
         if(err){
             reject(err);
             return;
